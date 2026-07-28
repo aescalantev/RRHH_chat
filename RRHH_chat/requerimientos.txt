@@ -1,0 +1,10 @@
+langchain --no-cache-dir
+langchain-google-genai
+google-generativeai
+langchain_community
+faiss-cpu
+langchain-text-splitters
+pymupdf
+langgraph
+streamlit
+flask
